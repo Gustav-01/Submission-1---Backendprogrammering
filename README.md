@@ -9,6 +9,6 @@ The program creates authors, books, and readers, and then runs different JPA que
 - count books per author
 - get books by genre using a Named Query
 
-Run the "TestConnection" class to see the results.
+Run the "Main" class to see the results.
 
 By Gustav Olsson
